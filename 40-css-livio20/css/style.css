@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    height: 300px;
+    justify-content: space-between;
+    flex-direction: column;
+    background-color: beige;
+  }
+  
+  .item { height: 14%; background-color:blue ; } 
+  #item1 { width: 98%; } 
+  #item2 { width: 50%; }
+  #item3 { width: 60%; }
+  #item4 { width: 20%; }
+  #item5 { width: 30%; }
+
+  body {
+      text-align: center;
+
+  }
+
+  #upper-div-image {
+      width: 200px;
+      border-radius: 50%;
+      border: 2px double red
+    }
